@@ -1,4 +1,4 @@
-# java-getting-started
+# java-getting-started - 创建新分支
 
 A barebones Java app, which can easily be deployed to Heroku.
 
